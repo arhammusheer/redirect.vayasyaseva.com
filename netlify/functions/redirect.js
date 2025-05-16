@@ -2,6 +2,7 @@ exports.handler = async (event) => {
   const allowedDomains = {
     "books.vayasyaseva.com": "https://books.zoho.in/app/60038782923",
     "portal.vayasyaseva.com": "https://books.zohosecure.in/portal/vayasyaseva",
+    "mail.vayasyaseva.com": "https://mail.zoho.in/zm",
     // Add more as needed
   };
 
